@@ -1,0 +1,6 @@
+psutil
+scikit-learn
+transformers
+torch
+tk
+
