@@ -91,7 +91,7 @@ python PCOptimizerAI.py
 
 ## Screenshot
 
-![PCOptimizerAI Screenshot](screenshots/Screenshots.png)
+![PCOptimizerAI Screenshot](PCOptimizerAI/screenshots/Screenshots.PNG)
 
 ## Conclusion
 
