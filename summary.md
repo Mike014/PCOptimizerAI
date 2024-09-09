@@ -96,3 +96,5 @@ python PCOptimizerAI.py
 ## Conclusion
 
 PCOptimizerAI is a comprehensive tool for monitoring and optimizing system resources. With its real-time recommendations and NLP interface, users can easily manage their system's performance and get answers to their optimization-related queries.
+This project is currently a prototype and will be improved and published soon.
+
